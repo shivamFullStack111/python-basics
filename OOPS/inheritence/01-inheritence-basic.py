@@ -9,7 +9,7 @@ class Dog(Animal):
         print("Bark")
 
 obj = Dog()
-obj.sound()             # Inherit method
-print(obj.legs)         # Inherit attribute
+obj.sound()             # Inherited method
+print(obj.legs)         # Inherited attribute
 
 obj.bark()              # Own method
