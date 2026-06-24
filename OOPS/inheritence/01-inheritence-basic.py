@@ -1,3 +1,8 @@
+# Parent class also known as super class 
+# Child class also known as sub class
+
+
+
 class Animal:
     legs = 4
     
