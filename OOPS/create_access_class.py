@@ -12,5 +12,8 @@ class Student:
     
     
 student1  = Student()
+student1.college = "LKCTC"         # Instance-specific attribute (exists only for this object) - Dynamic attribute
+
+
 student1.setNameAndEmail("Shivam","shvam12340987@gmail.com")
 student1.printData()
