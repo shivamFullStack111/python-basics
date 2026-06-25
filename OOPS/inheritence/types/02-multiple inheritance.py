@@ -1,4 +1,3 @@
-# Multiple inheritance where Multiple parent class and single child class 
 
 
 class A:
@@ -20,6 +19,30 @@ obj = C()
 obj.greet()
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Multiple inheritance where Multiple parent class and single child class 
+
+# ========== diagram ==========
+
+# 3. Multiple Inheritance
+#
+#     A     B
+#      \   /
+#       \ /
+#        C
 
 
 
