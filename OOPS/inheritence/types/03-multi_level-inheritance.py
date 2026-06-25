@@ -23,6 +23,16 @@ car.print_cost()
 
 
 
+# Diagram 
+
+#  Multilevel Inheritance
+#
+#     A
+#     |
+#     B
+#     |
+#     C
+
 
 
 
