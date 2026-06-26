@@ -11,4 +11,4 @@ class Student:
    
         
 student1 = Student()
-student2 = Student("Shivam","shvam12340987@gmail.com")
+# student2 = Student("Shivam","shvam12340987@gmail.com")

@@ -1,10 +1,11 @@
 from abc import ABC, abstractmethod
 
 class Rules(ABC):
-    
     @abstractmethod
     def greet(self):
         pass 
+    
+    
     
 class India(Rules):
     
